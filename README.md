@@ -4,8 +4,8 @@ En este archivo readme.md se resume los archivos subidos a github con objeto de 
 
 
 1. [Exposición del proyecto ](tienda-mdg-exposicion-v20.pdf)
-2. [Configuración de Spring Boot - application.properties](aplication.properties.tienda-mdg.txt)
-3. [Configuración de nginx](nginx.conf.tienda-mdg.txt)
+2. Configuración de Spring Boot fichero [application.properties](aplication.properties.tienda-mdg.txt)
+3. Configuración del servidor nginx [nginx.conf](nginx.conf.tienda-mdg.txt)
 
 
 
