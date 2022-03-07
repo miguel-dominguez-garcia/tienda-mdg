@@ -2,7 +2,7 @@
 
 ![Tienda Web Online ](Tienda%20Web%20Online.png)
 
-En este archivo readme.md se resume los archivos subidos a github con objeto de tenerlos listado y ordenados
+En este archivo readme.md se resume los archivos subidos a github con objeto de tenerlos listados y ordenados
 
 1. Exposición del proyecto en un fichero .pdf [exposición](tienda-mdg-exposicion-v20.pdf)
 2. Configuración de Spring Boot fichero [application.properties](aplication.properties.tienda-mdg.txt) 
