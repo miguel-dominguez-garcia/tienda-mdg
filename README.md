@@ -1,8 +1,6 @@
 # Proyecto TFG DAW tienda-mdg
 
 ![Tienda Web Online ](Tienda%20Web%20Online.png)
-img[alt="Tienda%20Web%20Online"] {   max-width:  20px;   display: block;}
-
 
 En este archivo readme.md se resume los archivos subidos a github con objeto de tenerlos listado y ordenados
 
