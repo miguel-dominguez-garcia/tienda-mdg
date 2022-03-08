@@ -9,7 +9,7 @@ En este archivo readme.md se resume los archivos subidos a github con objeto de 
 3. Configuración del servidor nginx [nginx.conf](nginx.conf.tienda-mdg.txt) 
 4. Diagrama de clases descrito en un fichero ArgoUML [diagrama de clases](tienda-mdg-diagrama-de-clase.zargo) 
 5. Casos de uso descrito en un fichero ArgoUML [casos de uso](tienda-mdg-diagrama-casos-de-uso-v5.zargo)
-6. Diseño físico de las tablas [esquema DDL] (tienda-mdg-esquema.sql)
+6. Diseño físico de las tablas [esquema DDL](tienda-mdg-esquema.sql)
 
 
 
